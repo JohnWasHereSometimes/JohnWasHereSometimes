@@ -1,5 +1,5 @@
 # John Hay 👋
-**IT Programming Student (NSCC/COGS)
+IT Programming Student (NSCC/COGS)
 
 Welcome to my GitHub profile.  
 I focus on practical, well-documented software projects with a security-aware mindset.
